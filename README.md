@@ -1,46 +1,62 @@
-# Getting Started with Create React App
+# 🤔 Letmeask
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📚 Conceitos estudados
 
-## Available Scripts
+<details>
+<summary>1º Dia: React & Firebase</summary>
+* Ambiente de desenvolvimento
+* Fluxo de um spa
+* Iniciando com React
+* Conceitos do React
+* Criando projeto Firebase
+* Conectando Firabase no React
+* Variáveis ambiente Firabase no React
+</details>
 
-In the project directory, you can run:
+<details>
+<summary>2º Dia: Autenticação</summary>
+* Tela de autenticação
+* Tela de criação de sala
+* Roteamento e navegação
+* Autenticação com Firebase
+* Contextos no React
+* Contexto de autenticação
+* Recuperar o estado de autenticação
+* Criando hook de autenticação
+</details>
 
-### `yarn start`
+<details>
+<summary>3º Dia: Fluxo de salas</summary>
+* Criação de sala
+* Entrando na sala
+* Estipulando autorização
+* Página de sala (HTML + CSS)
+* Criando nova pergunta 
+* Consumindo perguntas do Firebase
+* "Ouvindo" novas perguntas
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+</details>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<details>
+<summary>4º Dia: Interação com salas</summary>
+* Estrutura das perguntas (HTML + CSS)
+* Criando hook
+* Página de sala (admin)
+* Funcionalidade de like 
+* Remoção de pergunta
+* Encerrar sala
+</details>
 
-### `yarn test`
+## 🧠 Desafios
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [ ] Readme
+- [ ] Responsividade
+- [ ] Dark Theme
+- [ ] Versão PWA
+- [ ] Styled Components
+- [ ] Eslint, Prettier
+- [ ] Outros bancos de dados
 
-### `yarn build`
+## 💻 Aplicação
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+> Acesse em: https://letmeask-736fa.web.app/
