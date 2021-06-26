@@ -95,7 +95,7 @@ Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 
 ## 🧠 Desafios
 
-- [ ] Readme
+- [ x ] Readme
 - [ ] Responsividade
 - [ ] Dark Theme
 - [ ] Versão PWA
